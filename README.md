@@ -1,5 +1,7 @@
 [![Social banner for jh3y](https://github.com/ehagerty/ehagerty/raw/master/assets/header-banner--optimized.svg)](https://hagerty.net)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehagerty)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
