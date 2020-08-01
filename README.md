@@ -1,3 +1,5 @@
+[![Social banner for jh3y](https://github.com/ehagerty/ehagerty/raw/master/assets/header-banner--optimized.svg)](https://hagerty.net)
+
 ### Hi there 👋
 
 <!--
