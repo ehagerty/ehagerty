@@ -5,7 +5,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehagerty)](https://github.com/ehgaerty/github-readme-stats)
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/edhagerty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edhagerty" /></a></p><br><br>
 
 - 🔭 I’m currently working at [sweettreeconnect](sweettreeconnect.com)
@@ -28,7 +27,7 @@
 
 - ⚡ Fun fact **the marble only moves because it is pushed**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
