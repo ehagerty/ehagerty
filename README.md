@@ -1,11 +1,9 @@
 [![Social banner for jh3y](https://github.com/ehagerty/ehagerty/raw/master/assets/header-banner--optimized.svg)](https://hagerty.net)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehagerty)](https://github.com/ehgaerty/github-readme-stats)
-
-![](https://img.shields.io/badge/<Hi 👋, I'm Ed>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 <h1 align="center">Hi 👋, I'm Ed</h1>
 <h3 align="center">CTO/ leader / inventor</h3>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehagerty)](https://github.com/ehgaerty/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehagerty" alt="ehagerty" /></a> </p>
 
