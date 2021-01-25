@@ -1,7 +1,6 @@
 [![Social banner for jh3y](https://github.com/ehagerty/ehagerty/raw/master/assets/header-banner--optimized.svg)](https://hagerty.net)
 
-<h1 align="center">Hi 👋, I'm Ed</h1>
-<h3 align="center">CTO/ leader / inventor</h3>
+<h1 align="center">CTO/ leader / inventor</h3>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ehagerty)](https://github.com/ehgaerty/github-readme-stats)
 
