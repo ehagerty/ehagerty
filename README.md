@@ -20,3 +20,7 @@
 <a href="https://instagram.com/ehagerty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ehagerty" height="30" width="40" /></a>
 <a href="https://medium.com/@slatelake" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@slatelake" height="30" width="40" /></a>
 </p>
+
+<br>
+
+<h5 align="center"><i><b>Why is it that when I read "It supports both C and C++ development" all I can think is "we play both kinds of music, country /and/ western"</i></b></h3>
