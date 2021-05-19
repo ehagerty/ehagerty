@@ -23,4 +23,4 @@
 
 <br>
 
-<h5 align="center"><i><b>Why is it that when I read "It supports both C and C++ development" all I can think is "we play both kinds of music, country /and/ western"</i></b></h3>
+<h5 align="center">Why is it that when I read "It supports both C and C++ development" all I can think is "we play both kinds of music, country <b><i>and</i></b> western"</h3>
