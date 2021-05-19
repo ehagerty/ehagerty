@@ -1,4 +1,4 @@
-<h1 align="center">"it's a floor wax <i><b>and</i></b> a desert topping..."</h3>
+<h1 align="center">"it's a floor wax <i><b><a href="https://snltranscripts.jt.org/75/75ishimmer.phtml">and</a></i></b> a desert topping..."</h3>
 
 <br>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ehagerty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ehagerty" height="30" width="40" /></a>
-<a href="https://instagram.com/ehagerty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ehagerty" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itsjustaswitch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsjustaswitch" height="30" width="40" /></a>
 <a href="https://medium.com/@slatelake" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@slatelake" height="30" width="40" /></a>
 </p>
 
