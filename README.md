@@ -1,3 +1,4 @@
+
 <h1 align="center">"it's a floor wax <i><b><a href="https://snltranscripts.jt.org/75/75ishimmer.phtml">and</a></i></b> a desert topping..."</h3>
 
 <br>
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning **all the things**
 
-- 👯 I’m looking to collaborate on [esp-mesh projects](https://www.espressif.com/en/products/sdks/esp-wifi-mesh/overview)
+- 👯 I’m looking to collaborate on bringing me big bags of money
 
 <br>
 
