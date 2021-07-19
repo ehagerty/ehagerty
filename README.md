@@ -3,7 +3,7 @@
 
 <br>
 
-<p><a href="https://www.buymeacoffee.com/edhagerty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edhagerty" /></a></p>
+<p><a href="https://www.buymeacoffee.com/therealcaptain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="therealcaptain" /></a></p>
 
 <br><br><br>
 
